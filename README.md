@@ -56,14 +56,11 @@ Welcome to **Shopper Spectrum**, a machine learning-powered analytics tool desig
 
 
 📊 Business Use Cases
+
 🎯 Targeted Marketing Campaigns
-
 🛍️ Personalized Shopping Experience
-
 ⚠️ Customer Retention (At-Risk detection)
-
 📦 Inventory Optimization
-
 📈 Data-Driven Strategy for Growth
 
 
