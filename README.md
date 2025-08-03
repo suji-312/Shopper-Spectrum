@@ -42,15 +42,17 @@ Welcome to **Shopper Spectrum**, a machine learning-powered analytics tool desig
 
 ## 🗂️ Folder Structure
 
-├── shop_spectrum.ipynb # Main Jupyter Notebook
-├── streamlit_shop.py # Streamlit App
-├── online_retail.csv # Dataset
-├── similarity_matrix.npy # Recommendation matrix
-├── product_names.pkl # Product ID list
-├── product_mapping.pkl # Product Code → Name map
-├── rfm_model.pkl # Trained KMeans model
-├── scaler.pkl # StandardScaler object
-└── README.md # Project documentation
+- shop_spectrum.ipynb # Main Jupyter Notebook
+-  streamlit_shop.py # Streamlit App
+-  Online_retail.csv # Dataset
+-  Similarity_matrix.npy # Recommendation matrix
+-  product_names.pkl # Product ID list
+-  product_mapping.pkl # Product Code → Name map
+-  rfm_model.pkl # Trained KMeans model
+-  Scaler.pkl # StandardScaler object
+-  README.md # Project documentation
+
+
 
 
 📊 Business Use Cases
@@ -67,4 +69,4 @@ Welcome to **Shopper Spectrum**, a machine learning-powered analytics tool desig
 
 
 📬 Contact
-📧 Email: your.email@example.com
+📧 Email: sujithrabaskaran406@gmail.com
